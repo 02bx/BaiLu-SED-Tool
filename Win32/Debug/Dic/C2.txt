@@ -49,6 +49,7 @@
 123456789
 1234567890
 1234qwer
+123abc
 123qwe
 123QWE
 126
@@ -175,6 +176,7 @@
 abc
 ABC
 Abc
+abc123
 ABCD
 Abcd
 abcd
